@@ -3,7 +3,7 @@
 # Purpose:      For applying specific metadata to PDF files with specific naming
 #                   syntaxes. The metadata is copied from preproduced PDFs.  
 #
-# Author:      Daniel Raleigh
+# Author:      draleig
 #
 # Created:     16 November 2022
 # Copyright:   (c) daraleig 2022
